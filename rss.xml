@@ -4,8 +4,15 @@
         <description><![CDATA[NJ2015]]></description>
         <link>https://thegrid.ai/nj2015/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 17:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 17:11:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nj2015/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Robotics Competition]]></title>
+            <description><![CDATA[<article><h1>Robotics Competition</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8de60a932aa25fd43ae7b112e7e80bf7d23da16.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/robotics-competition/index.html</link>
+            <guid isPermaLink="false">7c4d70fb-7405-4704-9e9d-47c7a2508492</guid>
+            <pubDate>Thu, 31 Dec 2015 17:09:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Motown]]></title>
             <description><![CDATA[<article><h1>Motown</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/128df606404efe38c4f3638cb209723d58c6d0af.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Estonia Meetup</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52b9706823f360bd555bb87bf0681a388cd048c7.png"></article>]]></description>
             <link>https://thegrid.ai/nj2015/estonia-meetup/index.html</link>
             <guid isPermaLink="false">a0cfcd22-c5f4-453a-9ddf-9709a0f165f4</guid>
-            <pubDate>Thu, 31 Dec 2015 17:09:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mr Robot]]></title>
-            <description><![CDATA[<article><h1>Mr Robot</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b8e501ed78f6b16e3962b33578b79e8be4e238e.png"></article>]]></description>
-            <link>https://thegrid.ai/nj2015/mr-robot/index.html</link>
-            <guid isPermaLink="false">ebff92c2-3fa9-4225-9cb0-b3a65a126cd5</guid>
             <pubDate>Thu, 31 Dec 2015 17:09:03 GMT</pubDate>
         </item>
     </channel>
