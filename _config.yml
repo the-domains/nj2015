@@ -1,0 +1,14 @@
+layout_spectrum: 0.3064516
+typography_spectrum: 1
+color:
+  saturation: 0.8560595
+  lightness: 0.3532294
+  brandStrength: 1
+  brandColors:
+    - '#0D0B06'
+    - '#5C4C38'
+    - '#FFFFFC'
+    - '#EAB4A2'
+    - '#FFFF88'
+  rhythmicContrast: 0.4535467
+name: NJ2015
