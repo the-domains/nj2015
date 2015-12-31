@@ -4,50 +4,8 @@
         <description><![CDATA[NJ2015]]></description>
         <link>https://thegrid.ai/nj2015/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 17:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 17:10:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nj2015/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Robotics Competition]]></title>
-            <description><![CDATA[<article><h1>Robotics Competition</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8de60a932aa25fd43ae7b112e7e80bf7d23da16.png"></article>]]></description>
-            <link>https://thegrid.ai/nj2015/robotics-competition/index.html</link>
-            <guid isPermaLink="false">7c4d70fb-7405-4704-9e9d-47c7a2508492</guid>
-            <pubDate>Thu, 31 Dec 2015 17:09:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Motown]]></title>
-            <description><![CDATA[<article><h1>Motown</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/128df606404efe38c4f3638cb209723d58c6d0af.png"></article>]]></description>
-            <link>https://thegrid.ai/nj2015/motown/index.html</link>
-            <guid isPermaLink="false">0e51f36f-7b61-4964-869c-ef1cf2be8950</guid>
-            <pubDate>Thu, 31 Dec 2015 17:09:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>AJ got married in Vegas</p>]]></description>
-            <link>https://thegrid.ai/nj2015/ef2bacc0-f5d4-4d6c-b604-0a1edd9cefec/index.html</link>
-            <guid isPermaLink="false">ef2bacc0-f5d4-4d6c-b604-0a1edd9cefec</guid>
-            <pubDate>Thu, 31 Dec 2015 17:09:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[House of Cards]]></title>
-            <description><![CDATA[<article><h1>House of Cards</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4965dc023a4bdeffe240d50108de5f85aeda2c0.png"></article>]]></description>
-            <link>https://thegrid.ai/nj2015/house-of-cards/index.html</link>
-            <guid isPermaLink="false">abe68b22-f2b9-4a93-8f5a-d9973fba2ed0</guid>
-            <pubDate>Thu, 31 Dec 2015 17:09:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>House of Cards</p>]]></description>
-            <link>https://thegrid.ai/nj2015/0c83f81c-185b-4a29-b291-f5bc9e0095c8/index.html</link>
-            <guid isPermaLink="false">0c83f81c-185b-4a29-b291-f5bc9e0095c8</guid>
-            <pubDate>Thu, 31 Dec 2015 17:09:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Epicurrence, North Shore, Oahu]]></title>
-            <description><![CDATA[<article><h1>Epicurrence, North Shore, Oahu</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51ae9e92a0de2a2c3d89a58f4d7a25ab6dcc08bb.png"></article>]]></description>
-            <link>https://thegrid.ai/nj2015/epicurrence-north-shore-oahu/index.html</link>
-            <guid isPermaLink="false">bd3d8c47-1673-494f-9eba-677dc8baaa5f</guid>
-            <pubDate>Thu, 31 Dec 2015 17:09:03 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Newsroom]]></title>
             <description><![CDATA[<article><h1>Newsroom</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca154509640a72d3f7ba76e32a8b50cc6f08db1c.png"></article>]]></description>
@@ -75,6 +33,48 @@
             <link>https://thegrid.ai/nj2015/estonia-meetup/index.html</link>
             <guid isPermaLink="false">a0cfcd22-c5f4-453a-9ddf-9709a0f165f4</guid>
             <pubDate>Thu, 31 Dec 2015 17:09:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mr Robot]]></title>
+            <description><![CDATA[<article><h1>Mr Robot</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b8e501ed78f6b16e3962b33578b79e8be4e238e.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/mr-robot/index.html</link>
+            <guid isPermaLink="false">ebff92c2-3fa9-4225-9cb0-b3a65a126cd5</guid>
+            <pubDate>Thu, 31 Dec 2015 17:09:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Experiment + The Grid]]></title>
+            <description><![CDATA[<article><h1>The Experiment + The Grid</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc6eeba485e1810506857fbb16e68916fad28c45.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/the-experiment-the-grid/index.html</link>
+            <guid isPermaLink="false">6bc4dd13-4861-45de-a2e7-d42891a463c6</guid>
+            <pubDate>Thu, 31 Dec 2015 17:09:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SF 1]]></title>
+            <description><![CDATA[<article><h1>SF 1</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed504d6fd8dd5f9f04cb94d0d48b99de180df161.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/sf-1/index.html</link>
+            <guid isPermaLink="false">9bd95793-8060-4a3c-a4f4-5bce9ccf5289</guid>
+            <pubDate>Thu, 31 Dec 2015 17:09:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boston. Circle Hackathon]]></title>
+            <description><![CDATA[<article><h1>Boston. Circle Hackathon</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5efc14279db96ebfe7021a5404b332eb6ffe35de.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/boston-circle-hackathon/index.html</link>
+            <guid isPermaLink="false">c598a809-5580-4d81-ab4c-b007ad2dca38</guid>
+            <pubDate>Thu, 31 Dec 2015 17:09:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Charleston, SC]]></title>
+            <description><![CDATA[<article><h1>Charleston, SC</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/493364b062dee6ebb3512c771d468c9417463783.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/charleston-sc/index.html</link>
+            <guid isPermaLink="false">a001b322-d718-4bcb-92fd-1270efee5fe6</guid>
+            <pubDate>Thu, 31 Dec 2015 17:09:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Savannah, GA]]></title>
+            <description><![CDATA[<article><h1>Savannah, GA</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e9b7815f17f685a8bfed0f06dcbb9ff6289bd54.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/savannah-ga/index.html</link>
+            <guid isPermaLink="false">760c95c3-e3c3-4f14-a581-92be7fd8331c</guid>
+            <pubDate>Thu, 31 Dec 2015 17:09:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
