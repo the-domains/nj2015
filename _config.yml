@@ -1,14 +1,26 @@
-layout_spectrum: 0.3064516
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 1
 color:
   saturation: 0.8560595
   lightness: 0.3532294
-  brandStrength: 1
+  brandStrength: 0
   brandColors:
-    - '#0D0B06'
-    - '#5C4C38'
-    - '#FFFFFC'
-    - '#EAB4A2'
-    - '#FFFF88'
+    - '#2F10AB'
+    - '#7816DF'
+    - '#030204'
+    - '#E99188'
+    - '#9A5C38'
   rhythmicContrast: 0.4535467
+layout_spectrum: 0.6684588
 name: NJ2015
