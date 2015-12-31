@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-12-31T05:21:25.589Z'
+datePublished: '2015-12-31T17:09:03.040Z'
 publisher:
   domain: ''
   name: ''
 title: Boston. Circle Hackathon
-dateModified: '2015-12-31T04:38:50.468Z'
+dateModified: '2015-12-31T05:21:25.589Z'
 sourcePath: _posts/2015-12-31-boston-circle-hackathon.md
 published: true
 inFeed: true
