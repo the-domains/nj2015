@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-12-31T05:21:25.770Z'
+datePublished: '2015-12-31T17:09:03.766Z'
 publisher:
   domain: ''
   name: ''
 title: 'Epicurrence, North Shore, Oahu'
-dateModified: '2015-12-31T02:45:43.052Z'
+dateModified: '2015-12-31T05:21:25.770Z'
 sourcePath: _posts/2015-12-31-epicurrence-north-shore-oahu.md
 published: true
 inFeed: true
