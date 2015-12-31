@@ -4,21 +4,8 @@
         <description><![CDATA[NJ2015]]></description>
         <link>https://thegrid.ai/nj2015/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 05:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 05:22:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nj2015/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://thegrid.ai/nj2015/0c83f81c-185b-4a29-b291-f5bc9e0095c8/index.html</link>
-            <guid isPermaLink="false">0c83f81c-185b-4a29-b291-f5bc9e0095c8</guid>
-            <pubDate>Thu, 31 Dec 2015 05:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Epicurrence, North Shore, Oahu]]></title>
-            <description><![CDATA[<article><h1>Epicurrence, North Shore, Oahu</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/834f51ed-7d7e-4e21-87bc-50a2388a3a15.png"></article>]]></description>
-            <link>https://thegrid.ai/nj2015/epicurrence-north-shore-oahu/index.html</link>
-            <guid isPermaLink="false">bd3d8c47-1673-494f-9eba-677dc8baaa5f</guid>
-            <pubDate>Thu, 31 Dec 2015 05:21:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Estonia Meetup]]></title>
             <description><![CDATA[<article><h1>Estonia Meetup</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c372235-85df-48b5-9d4b-ad719c2962fe.png"></article>]]></description>
@@ -72,6 +59,20 @@
             <link>https://thegrid.ai/nj2015/dogs/index.html</link>
             <guid isPermaLink="false">8611a160-0dba-4f2b-b3ec-affd19c272c9</guid>
             <pubDate>Thu, 31 Dec 2015 05:21:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Charleston, SC]]></title>
+            <description><![CDATA[<article><h1>Charleston, SC</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/adc343f2-afe1-4c7e-93db-46ff7d440a60.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/charleston-sc/index.html</link>
+            <guid isPermaLink="false">a001b322-d718-4bcb-92fd-1270efee5fe6</guid>
+            <pubDate>Thu, 31 Dec 2015 05:21:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anniversary #14]]></title>
+            <description><![CDATA[<article><h1>Anniversary #14</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e6b7a82-145f-43ad-a61a-423e6204edfb.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/anniversary-14/index.html</link>
+            <guid isPermaLink="false">dba64066-823f-41ab-bd8e-f0fb1ce1992e</guid>
+            <pubDate>Thu, 31 Dec 2015 05:21:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
