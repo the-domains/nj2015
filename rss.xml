@@ -4,8 +4,22 @@
         <description><![CDATA[NJ2015]]></description>
         <link>https://thegrid.ai/nj2015/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 17:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 17:11:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nj2015/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Motown]]></title>
+            <description><![CDATA[<article><h1>Motown</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/128df606404efe38c4f3638cb209723d58c6d0af.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/motown/index.html</link>
+            <guid isPermaLink="false">0e51f36f-7b61-4964-869c-ef1cf2be8950</guid>
+            <pubDate>Thu, 31 Dec 2015 17:09:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>AJ got married in Vegas</p>]]></description>
+            <link>https://thegrid.ai/nj2015/ef2bacc0-f5d4-4d6c-b604-0a1edd9cefec/index.html</link>
+            <guid isPermaLink="false">ef2bacc0-f5d4-4d6c-b604-0a1edd9cefec</guid>
+            <pubDate>Thu, 31 Dec 2015 17:09:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[House of Cards]]></title>
             <description><![CDATA[<article><h1>House of Cards</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4965dc023a4bdeffe240d50108de5f85aeda2c0.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Mr Robot</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b8e501ed78f6b16e3962b33578b79e8be4e238e.png"></article>]]></description>
             <link>https://thegrid.ai/nj2015/mr-robot/index.html</link>
             <guid isPermaLink="false">ebff92c2-3fa9-4225-9cb0-b3a65a126cd5</guid>
-            <pubDate>Thu, 31 Dec 2015 17:09:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Experiment + The Grid]]></title>
-            <description><![CDATA[<article><h1>The Experiment + The Grid</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc6eeba485e1810506857fbb16e68916fad28c45.png"></article>]]></description>
-            <link>https://thegrid.ai/nj2015/the-experiment-the-grid/index.html</link>
-            <guid isPermaLink="false">6bc4dd13-4861-45de-a2e7-d42891a463c6</guid>
-            <pubDate>Thu, 31 Dec 2015 17:09:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SF 1]]></title>
-            <description><![CDATA[<article><h1>SF 1</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed504d6fd8dd5f9f04cb94d0d48b99de180df161.png"></article>]]></description>
-            <link>https://thegrid.ai/nj2015/sf-1/index.html</link>
-            <guid isPermaLink="false">9bd95793-8060-4a3c-a4f4-5bce9ccf5289</guid>
             <pubDate>Thu, 31 Dec 2015 17:09:03 GMT</pubDate>
         </item>
     </channel>
