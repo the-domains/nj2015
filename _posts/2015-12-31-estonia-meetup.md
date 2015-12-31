@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-12-31T05:21:25.698Z'
+datePublished: '2015-12-31T17:09:03.403Z'
 publisher:
   domain: ''
   name: ''
 title: Estonia Meetup
-dateModified: '2015-12-31T04:34:34.827Z'
+dateModified: '2015-12-31T05:21:25.698Z'
 sourcePath: _posts/2015-12-31-estonia-meetup.md
 published: true
 inFeed: true
