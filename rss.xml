@@ -4,28 +4,8 @@
         <description><![CDATA[NJ2015]]></description>
         <link>https://thegrid.ai/nj2015/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 05:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 05:22:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nj2015/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Berlin Meetup]]></title>
-            <description><![CDATA[<article><h1>Berlin Meetup</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3055d161-ba79-4c6f-956e-3c04b70522ad.png"></article>]]></description>
-            <link>https://thegrid.ai/nj2015/berlin-meetup/index.html</link>
-            <guid isPermaLink="false">8e45ac6e-73dd-4560-a6ef-f11bd37245a5</guid>
-            <pubDate>Thu, 31 Dec 2015 05:21:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.sho.com/site/image-bin/images/804_5_0/804_5_0_prm-S5PRArt_1024x640.jpg">]]></description>
-            <link>http://www.sho.com/sho/homeland/home</link>
-            <guid isPermaLink="false">6aef6f5b-ea20-4d97-9334-d3334f89bc8d</guid>
-            <pubDate>Thu, 31 Dec 2015 05:21:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://thegrid.ai/nj2015/d25f3938-e7b0-4b16-b240-163979f6df30/index.html</link>
-            <guid isPermaLink="false">d25f3938-e7b0-4b16-b240-163979f6df30</guid>
-            <pubDate>Thu, 31 Dec 2015 05:21:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Orphan Black]]></title>
             <description><![CDATA[<h1>Orphan Black</h1>]]></description>
@@ -73,6 +53,25 @@
             <link>urn:uuid:8ccbac22-71c8-4b76-8111-c508b585d30f</link>
             <guid isPermaLink="false">43530f9e-30db-4662-a0a4-72458509f34b</guid>
             <pubDate>Thu, 31 Dec 2015 05:21:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/nj2015/5ca47cc5-114a-49f3-bfb3-9ab9502dbbc0/index.html</link>
+            <guid isPermaLink="false">5ca47cc5-114a-49f3-bfb3-9ab9502dbbc0</guid>
+            <pubDate>Thu, 31 Dec 2015 05:21:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/nj2015/ef2bacc0-f5d4-4d6c-b604-0a1edd9cefec/index.html</link>
+            <guid isPermaLink="false">ef2bacc0-f5d4-4d6c-b604-0a1edd9cefec</guid>
+            <pubDate>Thu, 31 Dec 2015 05:21:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robotics Competition]]></title>
+            <description><![CDATA[<article><h1>Robotics Competition</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed3a2335-ba6c-4747-82fc-dbca52d03b42.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/robotics-competition/index.html</link>
+            <guid isPermaLink="false">7c4d70fb-7405-4704-9e9d-47c7a2508492</guid>
+            <pubDate>Thu, 31 Dec 2015 05:21:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
