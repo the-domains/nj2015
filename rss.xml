@@ -4,8 +4,15 @@
         <description><![CDATA[NJ2015]]></description>
         <link>https://thegrid.ai/nj2015/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 17:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 17:11:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nj2015/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Oliver's second performance. The Day I Died, Stories From the Grave.]]></title>
+            <description><![CDATA[<article><h1>Oliver's second performance. The Day I Died, Stories From the Grave.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f16f6eccf656264de7a561ae5548bb578ea7d611.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/olivers-second-performance-the-day-i-died-stories-from-th/index.html</link>
+            <guid isPermaLink="false">465cf422-08c2-40b5-b152-169d16d29f31</guid>
+            <pubDate>Thu, 31 Dec 2015 17:09:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Orphan Black]]></title>
             <description><![CDATA[<h1>Orphan Black</h1>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Dogs</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3af26c589c28b146487f1b6c0abe3daf473666b3.png"></article>]]></description>
             <link>https://thegrid.ai/nj2015/dogs/index.html</link>
             <guid isPermaLink="false">8611a160-0dba-4f2b-b3ec-affd19c272c9</guid>
-            <pubDate>Thu, 31 Dec 2015 17:09:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Avett Brothers]]></title>
-            <description><![CDATA[<article><h1>Avett Brothers</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccc8c29282a55f65b68d9d0f90f8796b34cd3e59.png"></article>]]></description>
-            <link>https://thegrid.ai/nj2015/avett-brothers/index.html</link>
-            <guid isPermaLink="false">f5c4ce1f-da61-47a7-9ad9-da4e5ccd594f</guid>
             <pubDate>Thu, 31 Dec 2015 17:09:03 GMT</pubDate>
         </item>
     </channel>
