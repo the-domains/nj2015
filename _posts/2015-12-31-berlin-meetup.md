@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-12-31T05:21:26.151Z'
+datePublished: '2015-12-31T17:09:02.541Z'
 publisher:
   domain: ''
   name: ''
 title: Berlin Meetup
-dateModified: '2015-12-31T04:50:26.186Z'
+dateModified: '2015-12-31T05:21:26.151Z'
 sourcePath: _posts/2015-12-31-berlin-meetup.md
 published: true
 inFeed: true
