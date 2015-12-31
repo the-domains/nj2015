@@ -4,8 +4,15 @@
         <description><![CDATA[NJ2015]]></description>
         <link>https://thegrid.ai/nj2015/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 17:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 17:10:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nj2015/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dogs]]></title>
+            <description><![CDATA[<article><h1>Dogs</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3af26c589c28b146487f1b6c0abe3daf473666b3.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/dogs/index.html</link>
+            <guid isPermaLink="false">8611a160-0dba-4f2b-b3ec-affd19c272c9</guid>
+            <pubDate>Thu, 31 Dec 2015 17:09:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Avett Brothers]]></title>
             <description><![CDATA[<article><h1>Avett Brothers</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccc8c29282a55f65b68d9d0f90f8796b34cd3e59.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Anniversary #14</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a7456e55603035cbca20516e6927da1587ebfba.png"></article>]]></description>
             <link>https://thegrid.ai/nj2015/anniversary-14/index.html</link>
             <guid isPermaLink="false">dba64066-823f-41ab-bd8e-f0fb1ce1992e</guid>
-            <pubDate>Thu, 31 Dec 2015 17:09:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fathers Day in MN]]></title>
-            <description><![CDATA[<article><h1>Fathers Day in MN</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a06367987715b78ec930dfe456af92c57e6587f9.png"></article>]]></description>
-            <link>https://thegrid.ai/nj2015/fathers-day-in-mn/index.html</link>
-            <guid isPermaLink="false">02857595-90a7-4e4e-9b79-3e0d7b72a498</guid>
             <pubDate>Thu, 31 Dec 2015 17:09:02 GMT</pubDate>
         </item>
     </channel>
