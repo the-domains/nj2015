@@ -7,6 +7,13 @@
         <lastBuildDate>Thu, 31 Dec 2015 17:10:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nj2015/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Karissa came to town]]></title>
+            <description><![CDATA[<article><h1>Karissa came to town</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4f9f7d848918bed8019f70409eb3b95d0265056.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/karissa-came-to-town/index.html</link>
+            <guid isPermaLink="false">1f93c501-0505-4b79-8ea9-96c0922c6a59</guid>
+            <pubDate>Thu, 31 Dec 2015 17:09:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Backyard Wizard of Oz]]></title>
             <description><![CDATA[<article><h1>Backyard Wizard of Oz</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c254ceed29bd08340c0562ee8e64f3fb27350124.png"></article>]]></description>
             <link>https://thegrid.ai/nj2015/backyard-wizard-of-oz/index.html</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<h1>Orphan Black</h1>]]></description>
             <link>https://thegrid.ai/nj2015/orphan-black/index.html</link>
             <guid isPermaLink="false">5c17be2a-e9ce-4695-a877-82542ca5b92a</guid>
-            <pubDate>Thu, 31 Dec 2015 05:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>House of Cards</p>]]></description>
-            <link>https://thegrid.ai/nj2015/0c83f81c-185b-4a29-b291-f5bc9e0095c8/index.html</link>
-            <guid isPermaLink="false">0c83f81c-185b-4a29-b291-f5bc9e0095c8</guid>
             <pubDate>Thu, 31 Dec 2015 05:21:25 GMT</pubDate>
         </item>
     </channel>
