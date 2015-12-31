@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[NJ2015]]></title>
         <description><![CDATA[NJ2015]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nj2015/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 05:21:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Dec 2015 05:21:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nj2015/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Anniversary #14]]></title>
+            <description><![CDATA[<article><h1>Anniversary #14</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e6b7a82-145f-43ad-a61a-423e6204edfb.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/anniversary-14/index.html</link>
+            <guid isPermaLink="false">dba64066-823f-41ab-bd8e-f0fb1ce1992e</guid>
+            <pubDate>Thu, 31 Dec 2015 05:21:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Experiment + The Grid]]></title>
             <description><![CDATA[<article><h1>The Experiment + The Grid</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4527403-a39c-458c-b6e0-1a0d8a68caa8.png"></article>]]></description>
-            <link>undefinedthe-experiment-the-grid/index.html</link>
+            <link>https://thegrid.ai/nj2015/the-experiment-the-grid/index.html</link>
             <guid isPermaLink="false">6bc4dd13-4861-45de-a2e7-d42891a463c6</guid>
             <pubDate>Thu, 31 Dec 2015 05:21:22 GMT</pubDate>
         </item>
