@@ -4,8 +4,15 @@
         <description><![CDATA[NJ2015]]></description>
         <link>https://thegrid.ai/nj2015/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 17:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 17:10:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nj2015/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Oliver's first play. Peter Pan.]]></title>
+            <description><![CDATA[<article><h1>Oliver's first play. Peter Pan.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54715c3278896a4e981c9c5917e7144ef184f278.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/olivers-first-play-peter-pan/index.html</link>
+            <guid isPermaLink="false">0004e792-d944-4b05-94fc-f0630b63cb5e</guid>
+            <pubDate>Thu, 31 Dec 2015 17:09:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Karissa came to town]]></title>
             <description><![CDATA[<article><h1>Karissa came to town</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4f9f7d848918bed8019f70409eb3b95d0265056.png"></article>]]></description>
@@ -53,7 +60,7 @@
             <description><![CDATA[<article><h1>Berlin Meetup</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46db9de7e179250649bcc94ae09e51d726ee2691.png"></article>]]></description>
             <link>https://thegrid.ai/nj2015/berlin-meetup/index.html</link>
             <guid isPermaLink="false">8e45ac6e-73dd-4560-a6ef-f11bd37245a5</guid>
-            <pubDate>Thu, 31 Dec 2015 05:21:26 GMT</pubDate>
+            <pubDate>Thu, 31 Dec 2015 17:09:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nj2015/d25f3938-e7b0-4b16-b240-163979f6df30/index.html</link>
             <guid isPermaLink="false">d25f3938-e7b0-4b16-b240-163979f6df30</guid>
             <pubDate>Thu, 31 Dec 2015 17:09:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Orphan Black]]></title>
-            <description><![CDATA[<h1>Orphan Black</h1>]]></description>
-            <link>https://thegrid.ai/nj2015/orphan-black/index.html</link>
-            <guid isPermaLink="false">5c17be2a-e9ce-4695-a877-82542ca5b92a</guid>
-            <pubDate>Thu, 31 Dec 2015 05:21:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
