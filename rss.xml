@@ -4,8 +4,22 @@
         <description><![CDATA[NJ2015]]></description>
         <link>https://thegrid.ai/nj2015/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 05:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 05:22:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nj2015/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Epicurrence, North Shore, Oahu]]></title>
+            <description><![CDATA[<article><h1>Epicurrence, North Shore, Oahu</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/834f51ed-7d7e-4e21-87bc-50a2388a3a15.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/epicurrence-north-shore-oahu/index.html</link>
+            <guid isPermaLink="false">bd3d8c47-1673-494f-9eba-677dc8baaa5f</guid>
+            <pubDate>Thu, 31 Dec 2015 05:21:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Estonia Meetup]]></title>
+            <description><![CDATA[<article><h1>Estonia Meetup</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c372235-85df-48b5-9d4b-ad719c2962fe.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/estonia-meetup/index.html</link>
+            <guid isPermaLink="false">a0cfcd22-c5f4-453a-9ddf-9709a0f165f4</guid>
+            <pubDate>Thu, 31 Dec 2015 05:21:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Boston. Circle Hackathon]]></title>
             <description><![CDATA[<article><h1>Boston. Circle Hackathon</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4161ca0a-5e42-4730-b788-c0418635ff22.png"></article>]]></description>
@@ -59,20 +73,6 @@
             <link>https://thegrid.ai/nj2015/charleston-sc/index.html</link>
             <guid isPermaLink="false">a001b322-d718-4bcb-92fd-1270efee5fe6</guid>
             <pubDate>Thu, 31 Dec 2015 05:21:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anniversary #14]]></title>
-            <description><![CDATA[<article><h1>Anniversary #14</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e6b7a82-145f-43ad-a61a-423e6204edfb.png"></article>]]></description>
-            <link>https://thegrid.ai/nj2015/anniversary-14/index.html</link>
-            <guid isPermaLink="false">dba64066-823f-41ab-bd8e-f0fb1ce1992e</guid>
-            <pubDate>Thu, 31 Dec 2015 05:21:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Experiment + The Grid]]></title>
-            <description><![CDATA[<article><h1>The Experiment + The Grid</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4527403-a39c-458c-b6e0-1a0d8a68caa8.png"></article>]]></description>
-            <link>https://thegrid.ai/nj2015/the-experiment-the-grid/index.html</link>
-            <guid isPermaLink="false">6bc4dd13-4861-45de-a2e7-d42891a463c6</guid>
-            <pubDate>Thu, 31 Dec 2015 05:21:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
