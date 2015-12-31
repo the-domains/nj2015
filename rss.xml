@@ -7,13 +7,6 @@
         <lastBuildDate>Thu, 31 Dec 2015 17:11:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nj2015/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>House of Cards</p>]]></description>
-            <link>https://thegrid.ai/nj2015/0c83f81c-185b-4a29-b291-f5bc9e0095c8/index.html</link>
-            <guid isPermaLink="false">0c83f81c-185b-4a29-b291-f5bc9e0095c8</guid>
-            <pubDate>Thu, 31 Dec 2015 17:09:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Epicurrence, North Shore, Oahu]]></title>
             <description><![CDATA[<article><h1>Epicurrence, North Shore, Oahu</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51ae9e92a0de2a2c3d89a58f4d7a25ab6dcc08bb.png"></article>]]></description>
             <link>https://thegrid.ai/nj2015/epicurrence-north-shore-oahu/index.html</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Boston. Circle Hackathon</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5efc14279db96ebfe7021a5404b332eb6ffe35de.png"></article>]]></description>
             <link>https://thegrid.ai/nj2015/boston-circle-hackathon/index.html</link>
             <guid isPermaLink="false">c598a809-5580-4d81-ab4c-b007ad2dca38</guid>
+            <pubDate>Thu, 31 Dec 2015 17:09:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Charleston, SC]]></title>
+            <description><![CDATA[<article><h1>Charleston, SC</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/493364b062dee6ebb3512c771d468c9417463783.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/charleston-sc/index.html</link>
+            <guid isPermaLink="false">a001b322-d718-4bcb-92fd-1270efee5fe6</guid>
             <pubDate>Thu, 31 Dec 2015 17:09:03 GMT</pubDate>
         </item>
     </channel>
