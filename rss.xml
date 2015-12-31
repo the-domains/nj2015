@@ -4,8 +4,15 @@
         <description><![CDATA[NJ2015]]></description>
         <link>https://thegrid.ai/nj2015/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 05:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 05:22:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nj2015/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dogs]]></title>
+            <description><![CDATA[<article><h1>Dogs</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b91bfa33-d8b0-43e5-8021-8eb5999ee427.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/dogs/index.html</link>
+            <guid isPermaLink="false">8611a160-0dba-4f2b-b3ec-affd19c272c9</guid>
+            <pubDate>Thu, 31 Dec 2015 05:21:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Charleston, SC]]></title>
             <description><![CDATA[<article><h1>Charleston, SC</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/adc343f2-afe1-4c7e-93db-46ff7d440a60.png"></article>]]></description>
