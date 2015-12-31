@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-12-31T05:21:22.263Z'
+datePublished: '2015-12-31T17:09:03.218Z'
 publisher:
   domain: ''
   name: ''
 title: The Experiment + The Grid
-dateModified: '2015-12-31T04:35:50.969Z'
+dateModified: '2015-12-31T05:21:22.263Z'
 sourcePath: _posts/2015-12-31-the-experiment-the-grid.md
 published: true
 inFeed: true
