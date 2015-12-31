@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-12-31T05:21:24.578Z'
+datePublished: '2015-12-31T17:09:04.384Z'
 publisher:
   domain: ''
   name: ''
 title: Robotics Competition
-dateModified: '2015-12-31T02:44:59.605Z'
+dateModified: '2015-12-31T05:21:24.578Z'
 sourcePath: _posts/2015-12-31-robotics-competition.md
 published: true
 inFeed: true
