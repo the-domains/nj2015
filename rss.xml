@@ -4,8 +4,15 @@
         <description><![CDATA[NJ2015]]></description>
         <link>https://thegrid.ai/nj2015/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 17:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 17:10:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nj2015/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Avett Brothers]]></title>
+            <description><![CDATA[<article><h1>Avett Brothers</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccc8c29282a55f65b68d9d0f90f8796b34cd3e59.png"></article>]]></description>
+            <link>https://thegrid.ai/nj2015/avett-brothers/index.html</link>
+            <guid isPermaLink="false">f5c4ce1f-da61-47a7-9ad9-da4e5ccd594f</guid>
+            <pubDate>Thu, 31 Dec 2015 17:09:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Estonia Meetup]]></title>
             <description><![CDATA[<article><h1>Estonia Meetup</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52b9706823f360bd555bb87bf0681a388cd048c7.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Fathers Day in MN</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a06367987715b78ec930dfe456af92c57e6587f9.png"></article>]]></description>
             <link>https://thegrid.ai/nj2015/fathers-day-in-mn/index.html</link>
             <guid isPermaLink="false">02857595-90a7-4e4e-9b79-3e0d7b72a498</guid>
-            <pubDate>Thu, 31 Dec 2015 17:09:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wrightsville Beach, NC]]></title>
-            <description><![CDATA[<article><h1>Wrightsville Beach, NC</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22245a610ae66a661ae848dbf307258b4cf41de3.png"></article>]]></description>
-            <link>urn:uuid:8ccbac22-71c8-4b76-8111-c508b585d30f</link>
-            <guid isPermaLink="false">43530f9e-30db-4662-a0a4-72458509f34b</guid>
             <pubDate>Thu, 31 Dec 2015 17:09:02 GMT</pubDate>
         </item>
     </channel>
