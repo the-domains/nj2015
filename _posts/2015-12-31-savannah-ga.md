@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-12-31T05:21:25.510Z'
+datePublished: '2015-12-31T17:09:02.930Z'
 publisher:
   domain: ''
   name: ''
 title: 'Savannah, GA'
-dateModified: '2015-12-31T04:42:35.471Z'
+dateModified: '2015-12-31T05:21:25.510Z'
 sourcePath: _posts/2015-12-31-savannah-ga.md
 published: true
 inFeed: true
