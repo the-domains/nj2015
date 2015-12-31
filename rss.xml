@@ -4,8 +4,15 @@
         <description><![CDATA[NJ2015]]></description>
         <link>https://thegrid.ai/nj2015/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 17:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 17:09:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nj2015/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hawaii</p>]]></description>
+            <link>https://thegrid.ai/nj2015/5ca47cc5-114a-49f3-bfb3-9ab9502dbbc0/index.html</link>
+            <guid isPermaLink="false">5ca47cc5-114a-49f3-bfb3-9ab9502dbbc0</guid>
+            <pubDate>Thu, 31 Dec 2015 17:09:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Halloween]]></title>
             <description><![CDATA[<article><h1>Halloween</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/355b76204951cdd063b2b4d1d22ebb7de34c1df4.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Estonia Meetup</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52b9706823f360bd555bb87bf0681a388cd048c7.png"></article>]]></description>
             <link>https://thegrid.ai/nj2015/estonia-meetup/index.html</link>
             <guid isPermaLink="false">a0cfcd22-c5f4-453a-9ddf-9709a0f165f4</guid>
-            <pubDate>Thu, 31 Dec 2015 05:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boston. Circle Hackathon]]></title>
-            <description><![CDATA[<article><h1>Boston. Circle Hackathon</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5efc14279db96ebfe7021a5404b332eb6ffe35de.png"></article>]]></description>
-            <link>https://thegrid.ai/nj2015/boston-circle-hackathon/index.html</link>
-            <guid isPermaLink="false">c598a809-5580-4d81-ab4c-b007ad2dca38</guid>
             <pubDate>Thu, 31 Dec 2015 05:21:25 GMT</pubDate>
         </item>
     </channel>
