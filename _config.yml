@@ -11,6 +11,7 @@ collections:
       format: rss
       number: 10
 typography_spectrum: 1
+style: the-composer
 color:
   saturation: 0.8560595
   lightness: 0.3532294
